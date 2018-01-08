@@ -1,0 +1,14 @@
+*.bak
+*.gz
+*.log
+*.map
+Thumbs.db
+.*
+!.ignore
+!.git*
+!.babelrc
+!.eslint*
+!.editorconfig
+node_modules
+/dist
+/docs
